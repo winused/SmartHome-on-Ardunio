@@ -17,7 +17,7 @@ Can send data to phone app MQTT Dashboard
 /if motion sensor doesn't detect any motion for 5 min, lights are off
 
 
-#SECONDROOM - same with first room with different pin numbers
+#SECONDROOM - 
 
 
 
